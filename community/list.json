@@ -363,4 +363,11 @@
      "country":"United States",
      "link":"https://bsidesslc.org/"
     }
+    {
+    "name" : "BSides NYC",
+    "month" : "January",
+    "location" : "Manhattan, New York",
+    "country" : "United States",
+    "link" : "https://bsidesnyc.org/"
+    }
 ]
