@@ -720,4 +720,11 @@
      "country":"Canada",
      "link":"http://www.bsidesto.ca/"
     }
+    {
+    "name" : "BSides NYC",
+    "month" : "January",
+    "location" : "Manhattan, New York",
+    "country" : "United States",
+    "link" : "https://bsidesnyc.org/"
+    }
 ]
